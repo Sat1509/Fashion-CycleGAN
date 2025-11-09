@@ -48,7 +48,7 @@ CycleGAN_Style_Translation
 
 - Condensed Report: Summarizes the detailed report for concise review.
 
-Both reports are included under the reports/ directory for reference.
+Both reports are included under the `reports/` directory for reference.
 
 ## Research Reflection: 
 
