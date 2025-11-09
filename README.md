@@ -35,11 +35,12 @@ The repository includes fully annotated notebooks with final outputs preserved t
 Some intermediate weight files are excluded due to storage constraints, but all result cells, metric curves, and sample visualizations are retained for full transparency.
 
 ## Repository Structure:
-
+```
 CycleGAN_Style_Translation
 ├── notebooks/           # Annotated and result-preserved notebooks
 ├── reports/             # Final report and condensed summary
 └── README.md            # Current file
+```      
 
 ## Reports:
 
